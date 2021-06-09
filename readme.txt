@@ -10,3 +10,4 @@ dev8888
 Git is a version control system.
 Git is free software.
 >>>>>>> wrote a readme file
+Creating a new branch is quick.
